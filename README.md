@@ -1,6 +1,6 @@
 # Adding-Context
 
-iPython notebook that counts word frequencies, comparing the ratio of the word `privacy` to the total number of words in a corpus. The complete version is found here: http://mediagestalt.com/context.html
+iPython notebook that counts word frequencies, comparing the ratio of the word `privacy` to the total number of words in a corpus. The complete version is found here: http://mediagestalt.com/thesis/context.html
 
 This repo presents an abridged sample of text analysis using Python. The data is from the Canadian House of Commons Parliamentary debates, published as Hansard.
 
